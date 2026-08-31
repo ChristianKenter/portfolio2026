@@ -114,10 +114,7 @@ jobs:
 
       - name: Build
         run: |
-          echo "GitHub Pages base URL: ${{ steps.pages.outputs.base_url }}"
-          echo "Configured Hugo base URL: $(hugo config | grep -i baseURL || true)"
-          echo "Building the project..."
-          hugo build \
+          hugo \
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
