@@ -114,7 +114,8 @@ jobs:
 
       - name: Build
         run: |
-          hugo \
+          echo "Building the project..."
+          hugo build \
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
