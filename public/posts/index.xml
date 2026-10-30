@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Christian Kenter</copyright>
-    <lastBuildDate>Sun, 23 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/portfolio2026/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Oct 2026 09:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/portfolio2026/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Project Kickoff and Defining the Idea</title>
+      <link>http://localhost:1313/portfolio2026/posts/01-project-kickoff/</link>
+      <pubDate>Fri, 04 Sep 2026 09:00:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/portfolio2026/posts/01-project-kickoff/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>test projekt 1</title>
@@ -15,6 +25,86 @@
       <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/portfolio2026/posts/test/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Choosing the Architecture and Technologies</title>
+      <link>http://localhost:1313/portfolio2026/posts/02-technical-architecture/</link>
+      <pubDate>Fri, 11 Sep 2026 09:00:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/portfolio2026/posts/02-technical-architecture/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Project Structure and Data Modelling</title>
+      <link>http://localhost:1313/portfolio2026/posts/03-data-model-and-structure/</link>
+      <pubDate>Fri, 18 Sep 2026 09:00:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/portfolio2026/posts/03-data-model-and-structure/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Database Setup and User Registration</title>
+      <link>http://localhost:1313/portfolio2026/posts/04-database-and-registration/</link>
+      <pubDate>Fri, 25 Sep 2026 09:00:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/portfolio2026/posts/04-database-and-registration/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Authentication, JWT and User Roles</title>
+      <link>http://localhost:1313/portfolio2026/posts/05-authentication-and-roles/</link>
+      <pubDate>Fri, 02 Oct 2026 09:00:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/portfolio2026/posts/05-authentication-and-roles/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Connecting Ollama and Generating Quiz Questions</title>
+      <link>http://localhost:1313/portfolio2026/posts/06-ollama-quiz-generation/</link>
+      <pubDate>Fri, 09 Oct 2026 09:00:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/portfolio2026/posts/06-ollama-quiz-generation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Text-to-Speech and Media Resources</title>
+      <link>http://localhost:1313/portfolio2026/posts/07-audio-and-media/</link>
+      <pubDate>Fri, 16 Oct 2026 09:00:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/portfolio2026/posts/07-audio-and-media/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Combining the Assets and Rendering the Video</title>
+      <link>http://localhost:1313/portfolio2026/posts/08-video-rendering/</link>
+      <pubDate>Fri, 23 Oct 2026 09:00:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/portfolio2026/posts/08-video-rendering/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Testing, Documentation and Project Evaluation</title>
+      <link>http://localhost:1313/portfolio2026/posts/09-testing-and-evaluation/</link>
+      <pubDate>Thu, 29 Oct 2026 09:00:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/portfolio2026/posts/09-testing-and-evaluation/</guid>
       <description></description>
       
     </item>

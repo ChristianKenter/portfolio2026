@@ -3,6 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/portfolio2026/posts/01-project-kickoff/</loc>
+    <lastmod>2026-09-04T09:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/portfolio2026/posts/test/</loc>
     <lastmod>2026-08-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -14,14 +20,62 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/portfolio2026/posts/02-technical-architecture/</loc>
+    <lastmod>2026-09-11T09:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/portfolio2026/posts/03-data-model-and-structure/</loc>
+    <lastmod>2026-09-18T09:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/portfolio2026/posts/04-database-and-registration/</loc>
+    <lastmod>2026-09-25T09:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/portfolio2026/posts/05-authentication-and-roles/</loc>
+    <lastmod>2026-10-02T09:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/portfolio2026/posts/06-ollama-quiz-generation/</loc>
+    <lastmod>2026-10-09T09:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/portfolio2026/posts/07-audio-and-media/</loc>
+    <lastmod>2026-10-16T09:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/portfolio2026/posts/08-video-rendering/</loc>
+    <lastmod>2026-10-23T09:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/portfolio2026/posts/09-testing-and-evaluation/</loc>
+    <lastmod>2026-10-29T09:00:00+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/portfolio2026/</loc>
-    <lastmod>2026-08-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-29T09:00:00+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/portfolio2026/posts/</loc>
-    <lastmod>2026-08-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-29T09:00:00+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

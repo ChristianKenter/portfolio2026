@@ -1,17 +1,4 @@
 [[main]]
-none = "none"
-
-[[main]]
-name = "About"
-pageRef = "about"
-identifier = "5Hz37ycSXm"
-weight = 9_990
-
-[[main]]
-name = "Posts"
-pageRef = "posts"
-identifier = "5Hz37ycSXK"
-weight = 9_999
-
-[[footer]]
-none = "none"
+  name = "Reports"
+  pageRef = "posts"
+  weight = 1

@@ -1,0 +1,74 @@
+/* SAGE & IVORY — Portfolio redesign */
+
+:root {
+  color-scheme: light;
+}
+
+html, body {
+  background: #E9E8DC !important;
+  color: #344638 !important;
+}
+
+body {
+  background:
+    radial-gradient(ellipse at 85% 10%, rgba(183,197,165,.4), transparent 42%),
+    linear-gradient(140deg, #F3F1E8 0%, #E9E8DC 60%, #E3E6D9 100%) !important;
+}
+
+/* Header */
+header {
+  background: rgba(243,241,232,.92) !important;
+  backdrop-filter: blur(14px);
+  border-bottom: 1px solid rgba(100,118,92,.18);
+}
+
+/* Typography */
+h1, h2, h3, h4 {
+  color: #344638 !important;
+  letter-spacing: -0.035em;
+}
+
+body, p, li {
+  color: #4D5B4B;
+}
+
+/* Navigation */
+header nav a {
+  color: #64765C !important;
+  font-weight: 600;
+  transition: color .2s ease;
+}
+
+header nav a:hover {
+  color: #BD8068 !important;
+}
+
+/* Links */
+main a {
+  color: #64765C !important;
+  text-decoration-color: rgba(100,118,92,.4);
+  text-underline-offset: 4px;
+}
+
+main a:hover {
+  color: #BD8068 !important;
+  text-decoration-color: #BD8068;
+}
+
+/* Content spacing */
+main .prose {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+/* Cards */
+article, .card {
+  border-color: rgba(100,118,92,.2) !important;
+  border-radius: 12px;
+}
+
+/* Selection */
+::selection {
+  background: #B7C5A5;
+  color: #344638;
+}
